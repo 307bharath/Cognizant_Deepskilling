@@ -18,15 +18,15 @@ public class Main {
         sc.close();
         int idx = SearchUtils.linearSearch(products, productName);
         if (idx != -1) {
-            System.out.println(" Linear Search: " + "Name:"+products[idx].getProductName()+
+            System.out.println("Linear Search: " + "Name:"+products[idx].getProductName()+
                                ", ID:"+products[idx].getProductId()+
                                ", Category:"+products[idx].getCategory());
         } else {
             System.out.println("Linear Search: Not found");
         }
-        // Sort products by productID
-        Arrays.sort(products, (a, b) -> Integer.compare(a.getProductId(), b.getProductId()));
-
+        // Sort products by productName
+        Arrays.sort(products, (a, b) -> a.getProductName().compareTo(b.getProductName()));
+        System.out.println("Products sorted by name for binary search:");
         // Binary Search (sorted)
         idx = SearchUtils.binarySearch(products, productName);
         if (idx != -1) {
