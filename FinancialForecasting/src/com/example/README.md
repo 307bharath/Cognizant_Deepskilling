@@ -10,9 +10,11 @@ You are developing a financial forecasting tool that predicts future values base
 ---
 ## 1.Understanding Recursive Algorithms
 **Recursion** is a programming technique where a method calls itself to solve a problem by breaking it down into smaller, similar subproblems. It can simplify problems like traversing trees, calculating factorials, or solving mathematical sequences.
+
 ---
 ## 2. Setup: Recursive Future Value Method
 Suppose you want to predict the future value of an investment given an initial amount, a constant growth rate, and a number of periods.
+
 ---
 ## 3.Analysis
 **Time Complexity:**
