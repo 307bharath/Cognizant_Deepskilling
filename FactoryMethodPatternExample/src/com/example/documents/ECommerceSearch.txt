@@ -1,7 +1,0 @@
-ECommerceSearch
-└── src
-    └── com
-        └── example
-            ├── Product.java
-            ├── SearchUtils.java
-            └── Main.java
