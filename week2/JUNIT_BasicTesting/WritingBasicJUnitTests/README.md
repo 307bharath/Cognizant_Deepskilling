@@ -63,6 +63,3 @@ public class CalculatorTest {
 
 ---
 
-## License
-
-This guide is for
