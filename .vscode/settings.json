@@ -5,10 +5,14 @@
         "week2"
     ],
     "java.project.referencedLibraries": [
+        "c:\\Users\\K Bharadwaj\\OneDrive\\Documents\\Cognizant_Deepskilling_HandsOn\\lib\\spring-data-jpa-2.7.18.jar",
         "c:\\Users\\K Bharadwaj\\OneDrive\\Documents\\Cognizant_Deepskilling_HandsOn\\lib\\byte-buddy-agent-1.14.12.jar",
         "c:\\Users\\K Bharadwaj\\OneDrive\\Documents\\Cognizant_Deepskilling_HandsOn\\lib\\objenesis-3.4.jar",
         "c:\\Users\\K Bharadwaj\\OneDrive\\Documents\\Cognizant_Deepskilling_HandsOn\\lib\\junit-platform-console-standalone-1.13.0-M3.jar",
         "c:\\Users\\K Bharadwaj\\OneDrive\\Documents\\Cognizant_Deepskilling_HandsOn\\lib\\mockito-core-5.18.0.jar",
+        "c:\\Users\\K Bharadwaj\\OneDrive\\Documents\\Cognizant_Deepskilling_HandsOn\\lib\\jakarta.persistence-api-3.1.0.jar",
         "c:\\Users\\K Bharadwaj\\OneDrive\\Documents\\Cognizant_Deepskilling_HandsOn\\lib\\byte-buddy-1.17.6.jar"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
