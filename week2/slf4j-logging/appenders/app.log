@@ -1,0 +1,3 @@
+12:40:17.974 [com.example.Appender.main()] INFO  com.example.Appender - This is an info message - it will appear in both console and app.log file.
+12:40:17.976 [com.example.Appender.main()] WARN  com.example.Appender - This is a warning message - it will appear in both console and app.log file.
+12:40:17.977 [com.example.Appender.main()] ERROR com.example.Appender - This is an error message - it will appear in both console and app.log file.
