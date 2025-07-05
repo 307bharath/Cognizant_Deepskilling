@@ -1,0 +1,4 @@
+com\example\productfilter\controller\ProductController.class
+com\example\productfilter\model\Product.class
+com\example\productfilter\ProductFilterApp.class
+com\example\productfilter\service\ProductService.class
