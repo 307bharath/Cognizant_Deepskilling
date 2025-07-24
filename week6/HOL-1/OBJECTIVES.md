@@ -1,16 +1,15 @@
-# React & Single-Page Applications (SPA) Guide
+# React & Single-Page Applications (SPA)
 
-A comprehensive guide covering Single-Page Applications and React fundamentals.
 
 ## Table of Contents
 
-- [Single-Page Applications (SPA)](#single-page-applications-spa)
-- [React Overview](#react-overview)
-- [SPA vs MPA Comparison](#spa-vs-mpa-comparison)
-- [Pros & Cons of SPAs](#pros--cons-of-spas)
-- [React Deep Dive](#react-deep-dive)
-- [Virtual DOM](#virtual-dom)
-- [React Features](#react-features)
+- [Define SPA and its benefits](#single-page-applications-spa)
+- [Define React and identify its working](#react-overview)
+- [Identify the differences between SPA and MPA](#spa-vs-mpa-comparison)
+- [Explain Pros & Cons of Single-Page Application](#pros--cons-of-spas)
+- [Explain about React](#react-deep-dive)
+- [Define virtual DOM](#virtual-dom)
+- [Explain Features of React](#react-features)
 
 ## Single-Page Applications (SPA)
 
@@ -52,7 +51,7 @@ A **Single-Page Application (SPA)** is a web application that loads a single HTM
 
 ## Pros & Cons of SPAs
 
-### ✅ Pros of SPA
+### Pros of SPA
 
 - **Enhanced User Experience**: Smooth, fast interactions without page reloads
 - **Reduced Server Load**: API-driven data fetching minimizes server-side rendering
@@ -60,7 +59,7 @@ A **Single-Page Application (SPA)** is a web application that loads a single HTM
 - **Offline Support**: Can cache data for limited offline functionality
 - **Easier Front-End Development**: Decouples front-end from back-end, enabling independent development
 
-### ❌ Cons of SPA
+### Cons of SPA
 
 - **SEO Challenges**: Client-side rendering can hinder search engine indexing without SSR or pre-rendering
 - **Initial Load Time**: Large JavaScript bundles can slow down the first page load
