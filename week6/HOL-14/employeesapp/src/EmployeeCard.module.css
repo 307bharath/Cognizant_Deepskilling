@@ -1,0 +1,27 @@
+.Card{
+    display: inline-block;
+    width: 25%;
+    border:1px solid #999;
+    border-radius: 5px;
+    margin:10px;
+    padding:10px;
+}
+.lightBtn {
+  background-color: white;
+  color: black;
+  border: 1px solid #999;
+  padding: 5px 10px;
+  margin-right: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.darkBtn {
+  background-color: #222;
+  color: white;
+  border: 1px solid #999;
+  padding: 5px 10px;
+  margin-right: 10px;
+  border-radius: 4px;
+    cursor: pointer;
+}
